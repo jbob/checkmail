@@ -1,0 +1,1 @@
+30 * * * * /path/checkmail.py 2>/dev/null | espeak --stdin -ven+f3 >/dev/null 2>&1
