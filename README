@@ -1,0 +1,2 @@
+A python script which checks your mail accounts and outputs the number of new
+mails. Its output can, for example piped to espeak via a cronjob ;-)
